@@ -1,0 +1,6 @@
+[2024-08-07 21:19:00,575] [INFO] 1) File processing : test.pdf (D:\angukaNayo\pdfPasswordRemover\test.pdf)
+[2024-08-07 21:20:35,087] [INFO] 1) File processing : test.pdf (D:\angukaNayo\pdfPasswordRemover\test.pdf)
+[2024-08-07 21:20:54,408] [INFO] 1) File processing : test.pdf (D:\angukaNayo\pdfPasswordRemover\test.pdf)
+[2024-08-07 21:20:54,475] [INFO] Successfully remove password on test.pdf
+[2024-08-07 21:30:54,873] [INFO] Processing file: D:\angukaNayo\pdfPasswordRemover\statement.pdf
+[2024-08-07 21:30:54,878] [INFO] statement.pdf is not password protected.
